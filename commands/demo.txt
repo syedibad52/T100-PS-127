@@ -1,0 +1,4 @@
+# PS-127 non-interactive command-file example
+validate --data-dir data/synthetic
+match --data-dir data/synthetic --donor SYN-O001 --as-of 2026-11-25T10:00:00 --run-id COMMAND_DEMO
+report --run-id COMMAND_DEMO

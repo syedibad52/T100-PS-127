@@ -1,0 +1,13 @@
+hospital_id,hospital_name,city,zone
+HSP-01,Bengaluru Institute of Nephro-Urology,Bengaluru,SOUTH
+HSP-02,Victoria Super Speciality Hospital,Bengaluru,SOUTH
+HSP-03,Sakra Transplant Centre,Bengaluru,SOUTH
+HSP-04,Jayadeva Cardiac Institute,Bengaluru,SOUTH
+HSP-05,JSS Hospital,Mysuru,SOUTH
+HSP-06,Apollo BGS Mysuru,Mysuru,SOUTH
+HSP-07,KMC Hospital,Mangaluru,WEST
+HSP-08,Father Muller Medical College Hospital,Mangaluru,WEST
+HSP-09,KIMS Hubballi,Hubballi,NORTH
+HSP-10,SDM Narayana Heart Centre,Hubballi,NORTH
+HSP-11,KLE Prabhakar Kore Hospital,Belagavi,NORTH
+HSP-12,GIMS Kalaburagi,Kalaburagi,NORTH

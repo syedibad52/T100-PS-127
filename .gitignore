@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.coverage
+outputs/**/*.json
+output/
+tmp/
