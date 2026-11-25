@@ -1,0 +1,3 @@
+candidate_id,refusal_date,offer_ref,reason_type,reason
+CND-0002,2025-09-12,EXT-2025-0412,NON_MEDICAL,Patient travelling
+CND-0002,2026-02-03,EXT-2026-0077,NON_MEDICAL,Centre bed unavailable
